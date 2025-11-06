@@ -1,5 +1,5 @@
 # Statistical-computing-
-##         RegNo.            Names                  Phone N0.
+
 ## --------------------------------------------------------------------
 ## 1. BSCCS/2023/72127 -  Micah Mosomi             0799973820
 ## 2. BSCCS/2023/63778-   Sadik Ahmed              0798 074700
