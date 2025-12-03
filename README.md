@@ -15,8 +15,7 @@
 
 
 
-# Project Overview: Quantifying the Post-2007 Election Impact on Kenya
-
+# Project Overview: 
 This project investigates the socio-economic downturn that followed the 2007 Kenyan General Elections.  
 Using time-series indicators such as **Quarterly GDP Growth** and **Tourism Revenue**, the study measures both the **magnitude** and **duration** of the national shock.
 
